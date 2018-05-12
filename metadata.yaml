@@ -1,0 +1,29 @@
+_repo: The-Rising-of-the-TideThe-Story-of-Sabinsport_46436
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46436-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Tarbell, Ida M. (Ida Minerva)
+    alias: Tarbell, Ida Minerva
+    birthdate: 1857
+    deathdate: 1944
+    gutenberg_agent_id: '4022'
+    url: http://www.gutenberg.org/2009/agents/4022
+    wikipedia: http://en.wikipedia.org/wiki/Ida_M._Tarbell
+description: ''
+gutenberg_issued: '2014-07-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46436'
+  lccn: '19005278'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Fiction'
+- !lcc 'PS'
+title: 'The Rising of the Tide: The Story of Sabinsport'
+url: http://www.gutenberg.org/ebooks/46436
